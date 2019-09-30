@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print/src/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print/src/Concat.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +43,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculation">
+  <component name="RunManager" selected="Application.Concat">
     <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculation" />
+      <module name="print" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concat" />
       <module name="print" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Concat" />
         <item itemvalue="Application.Calculation" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Hello" />
@@ -88,7 +95,7 @@
       <workItem from="1569828251206" duration="3271000" />
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
-      <workItem from="1569842661902" duration="231000" />
+      <workItem from="1569842661902" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -111,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569832753885</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Calculations">
+      <created>1569842993668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569842993668</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
