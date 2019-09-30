@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="Calculations">
-      <change afterPath="$PROJECT_DIR$/print/src/userInput.java" afterDir="false" />
+    <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print/src/userInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/userInput.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -104,7 +105,7 @@
       <workItem from="1569828251206" duration="3271000" />
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
-      <workItem from="1569842661902" duration="2224000" />
+      <workItem from="1569842661902" duration="2891000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569843500857</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Calculations 8 9 10">
+      <created>1569844938484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569844938484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit" />
     <MESSAGE value="Calculations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculations" />
+    <MESSAGE value="Calculations 8 9 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculations 8 9 10" />
   </component>
 </project>
