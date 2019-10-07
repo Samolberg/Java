@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/print/src/changingVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print/src/changingVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/changingVariables.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +105,7 @@
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
       <workItem from="1569842661902" duration="3700000" />
-      <workItem from="1570432731763" duration="10624000" />
+      <workItem from="1570432731763" duration="11041000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -227,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570442575888</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Changing Variables 25 - sum of three numbers">
+      <created>1570445268470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1570445268470</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +267,7 @@
     <MESSAGE value="Conditional statement 20 - juzername check" />
     <MESSAGE value="Conditional statement 21 - leap year" />
     <MESSAGE value="Loops 22 - secret" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops 22 - secret" />
+    <MESSAGE value="Changing Variables 25 - sum of three numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing Variables 25 - sum of three numbers" />
   </component>
 </project>
