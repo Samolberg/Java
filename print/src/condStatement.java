@@ -3,12 +3,12 @@ public class condStatement {
 
         public static void main(String[] args) {
             Scanner reader = new Scanner(System.in);
-            System.out.print("Enter number: ");
+            System.out.print("How old are you: ");
             int num1 = Integer.parseInt(reader.nextLine());
-            if (num1 > 0) {
-                System.out.println("Your number is positive");
+            if (num1 >= 18) {
+                System.out.println("You have reached the age of majority");
             } else {
-                System.out.println("Your number is negative");
+                System.out.println("You have not reached the age");
             }
         }
     }
