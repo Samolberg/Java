@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/print/src/condStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/condStatement.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,7 +105,7 @@
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
       <workItem from="1569842661902" duration="3700000" />
-      <workItem from="1570432731763" duration="5489000" />
+      <workItem from="1570432731763" duration="5988000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -192,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570437329400</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Conditional statement 18 - grades">
+      <created>1570438760099</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570438760099</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +227,7 @@
     <MESSAGE value="Conditional statement 15" />
     <MESSAGE value="Conditional statement 16" />
     <MESSAGE value="Conditional statement 17, greater number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditional statement 17, greater number" />
+    <MESSAGE value="Conditional statement 18 - grades" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional statement 18 - grades" />
   </component>
 </project>
