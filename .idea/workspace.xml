@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print/src/userInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/userInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print/src/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/Calculation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.userInput">
+  <component name="RunManager" selected="Application.Calculation">
     <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculation" />
       <module name="print" />
@@ -83,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculation" />
         <item itemvalue="Application.userInput" />
         <item itemvalue="Application.Concat" />
-        <item itemvalue="Application.Calculation" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -105,7 +105,8 @@
       <workItem from="1569828251206" duration="3271000" />
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
-      <workItem from="1569842661902" duration="2891000" />
+      <workItem from="1569842661902" duration="3700000" />
+      <workItem from="1570432731763" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569844938484</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Calculations 12">
+      <created>1569845729281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569845729282</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +180,7 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="Calculations" />
     <MESSAGE value="Calculations 8 9 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculations 8 9 10" />
+    <MESSAGE value="Calculations 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculations 12" />
   </component>
 </project>

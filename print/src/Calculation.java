@@ -5,7 +5,7 @@ public class Calculation {
         int minutes = 60;
         int seconds = days * hours * minutes * 60;
 
-        System.out.println(seconds);
+        System.out.println(seconds + " seconds");
 
 
 
