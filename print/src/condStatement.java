@@ -6,10 +6,15 @@ public class condStatement {
             System.out.print("Type a number: ");
             int num1 = Integer.parseInt(reader.nextLine());
 
-            if (num1%2 == 0) {
-                System.out.println("Even number");
+            System.out.print("Type a number: ");
+            int num2 = Integer.parseInt(reader.nextLine());
+
+            if (num1 > num2) {
+                System.out.println("Bigger number: " + num1);
+            } else if (num2 > num1) {
+                System.out.println("Bigger number:" + num2);
             } else {
-                System.out.println("Not even");
+                System.out.println("Numbers are equal");
             }
         }
     }
