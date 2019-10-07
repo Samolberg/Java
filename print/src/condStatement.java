@@ -3,14 +3,20 @@ public class condStatement {
 
         public static void main(String[] args) {
             Scanner reader = new Scanner(System.in);
-            System.out.print("Type in your age ");
-            int num1 = Integer.parseInt(reader.nextLine());
+            System.out.println("Your username: ");
+            String username = reader.nextLine();
 
-            if (num1 <= 150 && num1 > 0 ) {
-                System.out.println("OK");
+            System.out.println("Your password: ");
+            String password = reader.nextLine();
+
+            if (username.equals("alex") && password.equals("mightyducks")) {
+                System.out.println("Welcome juzer");
+            } else if (username.equals("emily") && password.equals("cat")) {
+                System.out.println("Welcome juzer");
             } else {
-                System.out.println("Impossible");
+                System.out.println("Wrong juzername or password");
             }
+
         }
     }
 
