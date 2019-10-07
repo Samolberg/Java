@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print/src/condStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print/src/condStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/condStatement.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +106,7 @@
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
       <workItem from="1569842661902" duration="3700000" />
-      <workItem from="1570432731763" duration="2250000" />
+      <workItem from="1570432731763" duration="3036000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -165,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570434061841</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Conditional statement 14">
+      <created>1570435395411</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570435395411</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Conditional statement 15">
+      <created>1570435536639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570435536639</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +203,8 @@
     <MESSAGE value="Calculations 8 9 10" />
     <MESSAGE value="Calculations 12" />
     <MESSAGE value="Calculations 12.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculations 12.1" />
+    <MESSAGE value="Conditional statement 14" />
+    <MESSAGE value="Conditional statement 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional statement 15" />
   </component>
 </project>
