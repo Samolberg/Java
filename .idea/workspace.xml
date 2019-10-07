@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/print/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print/src/changingVariables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Loops">
+  <component name="RunManager" selected="Application.changingVariables">
     <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculation" />
       <module name="print" />
@@ -53,15 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Concat" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="print" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
+    <configuration name="changingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="changingVariables" />
       <module name="print" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.changingVariables" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.condStatement" />
         <item itemvalue="Application.Calculation" />
         <item itemvalue="Application.userInput" />
-        <item itemvalue="Application.Concat" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +106,7 @@
       <workItem from="1569831689201" duration="76000" />
       <workItem from="1569831798534" duration="992000" />
       <workItem from="1569842661902" duration="3700000" />
-      <workItem from="1570432731763" duration="9388000" />
+      <workItem from="1570432731763" duration="10624000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570441588243</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Loops 22 - secret">
+      <created>1570442575888</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570442575888</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +260,7 @@
     <MESSAGE value="Conditional statement 19 - age check" />
     <MESSAGE value="Conditional statement 20 - juzername check" />
     <MESSAGE value="Conditional statement 21 - leap year" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditional statement 21 - leap year" />
+    <MESSAGE value="Loops 22 - secret" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops 22 - secret" />
   </component>
 </project>
