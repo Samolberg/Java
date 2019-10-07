@@ -3,19 +3,17 @@ public class condStatement {
 
         public static void main(String[] args) {
             Scanner reader = new Scanner(System.in);
-            System.out.println("Your username: ");
-            String username = reader.nextLine();
+            System.out.print("Enter year: ");
+            int num1 = Integer.parseInt(reader.nextLine());
 
-            System.out.println("Your password: ");
-            String password = reader.nextLine();
-
-            if (username.equals("alex") && password.equals("mightyducks")) {
-                System.out.println("Welcome juzer");
-            } else if (username.equals("emily") && password.equals("cat")) {
-                System.out.println("Welcome juzer");
-            } else {
-                System.out.println("Wrong juzername or password");
+            if (num1%4 == 0){
+                System.out.println("Leap year");
+            }else if (num1%100 == 0 && num1%400 == 0) {
+                System.out.println("Leap year");
+            }else {
+                System.out.println("not leap year");
             }
+
 
         }
     }
