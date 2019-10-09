@@ -3,13 +3,13 @@ public class moreLoops {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter number: ");
-        int number = Integer.parseInt(reader.nextLine());
+        double power = Integer.parseInt(reader.nextLine());
+        double number = 2;
 
-        int i,fact=1;
+        int result = (int)Math.pow(number, power);
 
-        for(i=1;i<=number;i++){
-           fact = fact*i;
-        }
-        System.out.println(fact);
+
+
+        System.out.println(result);
     }
 }
