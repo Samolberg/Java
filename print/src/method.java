@@ -4,7 +4,7 @@ public class method {
        for(int i = 0; i<amount; i++) {
             System.out.print("*");
         }
-        System.out.println("\n");
+        System.out.print("\n");
     }
 
     public static void main(String[] args) {
@@ -26,7 +26,6 @@ public class method {
 
 
         }
-        System.out.println("\n");
     }
 
     public static void printRectangle(int width, int height) {
