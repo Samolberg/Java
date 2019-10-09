@@ -8,13 +8,23 @@ public class method {
     }
 
     public static void main(String[] args) {
-        printRectangle(17,3);
+        printTriangle(4);
     }
 
     public static void printSquare(int sideSize) {
 
         for(int i = 0; i<sideSize; i++) {
             printStars(sideSize);
+        }
+        System.out.println("\n");
+    }
+
+    public static void printTriangle(int size) {
+        for(int i = size; i>=0; i--) {
+
+            printStars(size-i);
+
+
         }
         System.out.println("\n");
     }
