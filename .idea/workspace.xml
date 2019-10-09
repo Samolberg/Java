@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/print/src/moreLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/moreLoops.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,7 +108,7 @@
       <workItem from="1569842661902" duration="3700000" />
       <workItem from="1570432731763" duration="11506000" />
       <workItem from="1570524591629" duration="5953000" />
-      <workItem from="1570599135235" duration="2401000" />
+      <workItem from="1570599135235" duration="3691000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -298,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570603234476</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Changing Variables 35 Sum of the powers">
+      <created>1570603890798</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1570603890798</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +350,7 @@
     <MESSAGE value="Changing Variables 32" />
     <MESSAGE value="Changing Variables 33 - ei tea kuidas sain tööle, aga sain" />
     <MESSAGE value="Changing Variables 34 - factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing Variables 34 - factorial" />
+    <MESSAGE value="Changing Variables 35 Sum of the powers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing Variables 35 Sum of the powers" />
   </component>
 </project>
