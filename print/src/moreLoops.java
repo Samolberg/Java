@@ -3,17 +3,13 @@ public class moreLoops {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter number: ");
-        int result = Integer.parseInt(reader.nextLine());
-        System.out.print("Enter number: ");
-        int num2 = Integer.parseInt(reader.nextLine());
+        int number = Integer.parseInt(reader.nextLine());
 
-        int times = result;
+        int i,fact=1;
 
-        while (times < num2) {
-            times++;
-            result = result + times;
-
+        for(i=1;i<=number;i++){
+           fact = fact*i;
         }
-        System.out.println(result);
+        System.out.println(fact);
     }
 }
