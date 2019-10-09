@@ -9,9 +9,11 @@ public class moreLoops {
 
             int number = Integer.parseInt(reader.nextLine());
             if (number == -1){
+                double avg = (double)sum / count ;
                 System.out.println("Thank you come again");
                 System.out.println("The sum is " + sum);
                 System.out.println("How many number: " + count);
+                System.out.println("Average: " + avg );
                 break;
             }else {
                 sum = sum + number;
