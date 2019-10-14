@@ -1,52 +1,61 @@
+import java.util.Random;
 import java.util.Scanner;
 public class method {
-    public static void printStars(int amount) {
-       for(int i = 0; i<amount; i++) {
-            System.out.print("*");
-        }
 
-        System.out.print("\n");
+    static int count = 0;
+    static int numberDrawn=0;
+    private static int drawNumber() {
+            return new Random().nextInt(10);
     }
 
-
-
-    public static void printSquare(int sideSize) {
-
-        for(int i = 0; i<sideSize; i++) {
-            printStars(sideSize);
-        }
-
-        System.out.println("\n");
-    }
-
-    public static void printRectangle(int width, int height) {
-
-        for(int i = 0; i<height; i++) {
-            printStars(width);
-        }
-
-        System.out.println("\n");
-    }
-
-    public static void printWhitespaces(int size) {
-        for(int i = 0; i<size; i++) {
-            System.out.print(" ");
-        }
-    }
-
-    public static void printTriangle(int size) {
-
-        for(int i = size; i>=0; i--){
-
-            printStars(size-i);
-            printWhitespaces(size+i);
-
-        }
-
-    }
     public static void main(String[] args) {
+        Scanner reader = new Scanner(System.in);
 
-        printTriangle(4);
+        System.out.print("Enter number: ");
+        int guess = Integer.parseInt(reader.nextLine());
+        int numberDrawn = drawNumber();
+        int count = 0;
+
+        if (numberDrawn < guess) {
+            count++;
+            System.out.println("Number guessed is smaller. " + "Times guessed: " + count);
+            loop();
+
+        } else if (numberDrawn > guess) {
+            count++;
+            System.out.println("Number guessed is bigger. " + "Times guessed: " + count);
+            loop();
+        } else {
+            count++;
+            System.out.println("Guessed correctly! " + "Times guessed: " + count);
+
+        }
+
+    }
+
+    public static void loop() {
+
+        Scanner reader = new Scanner(System.in);
+
+        System.out.print("Enter number: ");
+        int guess = Integer.parseInt(reader.nextLine());
+        int numberDrawn = drawNumber();
+
+
+        if (numberDrawn < guess) {
+            count++;
+            System.out.println("Number is lesser. " + "Times guessed: " + count);
+            loop();
+
+        } else if (numberDrawn > guess) {
+            count++;
+            System.out.println("Number is greater. " + "Times guessed: " + count);
+            loop();
+        } else {
+            count++;
+            System.out.println("Guessed correctly! " + "Times guessed: " + count);
+
+        }
     }
 
 }
