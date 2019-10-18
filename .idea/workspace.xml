@@ -109,7 +109,8 @@
       <workItem from="1570432731763" duration="11506000" />
       <workItem from="1570524591629" duration="5953000" />
       <workItem from="1570599135235" duration="12365000" />
-      <workItem from="1571044176981" duration="6302000" />
+      <workItem from="1571044176981" duration="6557000" />
+      <workItem from="1571381182022" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -391,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571048845547</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Method 41 number guesser">
+      <created>1571053721863</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1571053721863</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Conditional statement 21 - leap year" />
     <MESSAGE value="Loops 22 - secret" />
     <MESSAGE value="Changing Variables 25 - sum of three numbers" />
     <MESSAGE value="Changing Variables 26 - sum of many numbers" />
@@ -436,6 +443,7 @@
     <MESSAGE value="Method 39.4 Printing a half triangle" />
     <MESSAGE value="Method 39.4 Printing a half triangle - made the triangle tighter" />
     <MESSAGE value="Method 40.1/40.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 40.1/40.2" />
+    <MESSAGE value="Method 41 number guesser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 41 number guesser" />
   </component>
 </project>
