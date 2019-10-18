@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/print/src/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/method.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,7 +109,7 @@
       <workItem from="1570524591629" duration="5953000" />
       <workItem from="1570599135235" duration="12365000" />
       <workItem from="1571044176981" duration="6557000" />
-      <workItem from="1571381182022" duration="653000" />
+      <workItem from="1571381182022" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -399,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571053721863</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Method 43 adding numbers">
+      <created>1571381866671</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1571381866671</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Loops 22 - secret" />
     <MESSAGE value="Changing Variables 25 - sum of three numbers" />
     <MESSAGE value="Changing Variables 26 - sum of many numbers" />
     <MESSAGE value="Changing Variables 27 - 1-100" />
@@ -444,6 +449,7 @@
     <MESSAGE value="Method 39.4 Printing a half triangle - made the triangle tighter" />
     <MESSAGE value="Method 40.1/40.2" />
     <MESSAGE value="Method 41 number guesser" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 41 number guesser" />
+    <MESSAGE value="Method 43 adding numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 43 adding numbers" />
   </component>
 </project>

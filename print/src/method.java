@@ -2,16 +2,16 @@ import java.util.Random;
 import java.util.Scanner;
 public class method {
 
-    public static int sum(int num1, int num2, int num3, int num4){
+    public static int least (int num1, int num2){
 
-        return (num1+num2+num3+num4);
+        return Math.min(num1, num2);
 
     }
 
     public static void main(String[] args) {
 
-        int answer = sum(4,3,6,1);
-        System.out.println("Total: " + answer);
+        int smaller = least(2,7);
+        System.out.println("Least: " + smaller);
     }
 
 }
