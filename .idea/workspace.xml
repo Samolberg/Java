@@ -109,7 +109,7 @@
       <workItem from="1570524591629" duration="5953000" />
       <workItem from="1570599135235" duration="12365000" />
       <workItem from="1571044176981" duration="6557000" />
-      <workItem from="1571381182022" duration="968000" />
+      <workItem from="1571381182022" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -405,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571381866671</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Method 44 least">
+      <created>1571382193967</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1571382193967</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing Variables 25 - sum of three numbers" />
     <MESSAGE value="Changing Variables 26 - sum of many numbers" />
     <MESSAGE value="Changing Variables 27 - 1-100" />
     <MESSAGE value="Changing Variables 28 100 - 1" />
@@ -450,6 +456,7 @@
     <MESSAGE value="Method 40.1/40.2" />
     <MESSAGE value="Method 41 number guesser" />
     <MESSAGE value="Method 43 adding numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 43 adding numbers" />
+    <MESSAGE value="Method 44 least" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 44 least" />
   </component>
 </project>
