@@ -2,12 +2,12 @@ import java.util.Scanner;
 
 public class Strings {
 
-    public static int calculateCharacters(String text){
+    public static  calculateCharacters(String text){
 
 
 
-        int nameLength = text.length();
-        return nameLength;
+        char firstChar = text.charAt(0);
+        return firstChar;
 
 
     }
@@ -17,7 +17,7 @@ public class Strings {
         System.out.print("Enter name: ");
         String text = reader.nextLine();
 
-        System.out.println("Lenght of the name:" + calculateCharacters(text));
+        System.out.println("First char:" + calculateCharacters(text));
 
     }
 
