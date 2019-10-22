@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/print/src/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/method.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,7 +110,7 @@
       <workItem from="1570524591629" duration="5953000" />
       <workItem from="1570599135235" duration="12365000" />
       <workItem from="1571044176981" duration="6557000" />
-      <workItem from="1571381182022" duration="1414000" />
+      <workItem from="1571381182022" duration="3710000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -412,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571382193967</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Method 45 greatest">
+      <created>1571382640346</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1571382640346</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing Variables 26 - sum of many numbers" />
     <MESSAGE value="Changing Variables 27 - 1-100" />
     <MESSAGE value="Changing Variables 28 100 - 1" />
     <MESSAGE value="Changing Variables 29 2-100" />
@@ -457,6 +464,7 @@
     <MESSAGE value="Method 41 number guesser" />
     <MESSAGE value="Method 43 adding numbers" />
     <MESSAGE value="Method 44 least" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 44 least" />
+    <MESSAGE value="Method 45 greatest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 45 greatest" />
   </component>
 </project>

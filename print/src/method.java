@@ -1,22 +1,15 @@
-import java.util.Random;
-import java.util.Scanner;
 public class method {
 
-    public static int greatest (int num1, int num2, int num3){
+    public static average (double num1, double num2, double num3, double num4){
 
-        if (num1 >= num2 && num1 >= num3){
-            return num1;
-        }else if(num2 >= num1 && num2 >= num3){
-                return num2;
-        }else {
-            return num3;
-        }
+        Double.sum(num1,num2,num3,num4)/4;
+        return;
 
     }
 
     public static void main(String[] args) {
 
-        int biggest = greatest(2,7,33);
+        double biggest = average(4, 3, 6, 1);
         System.out.println("Greatest: " + biggest);
     }
 
