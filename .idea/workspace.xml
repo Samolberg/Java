@@ -112,7 +112,7 @@
       <workItem from="1571044176981" duration="6557000" />
       <workItem from="1571381182022" duration="6815000" />
       <workItem from="1573466612398" duration="69000" />
-      <workItem from="1573467049197" duration="878000" />
+      <workItem from="1573467049197" duration="1610000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1569829084062</created>
@@ -443,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571727275847</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Method 48 Sain tööle first char">
+      <created>1573469793778</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1573469793778</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,7 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing Variables 30" />
     <MESSAGE value="Changing Variables 31" />
     <MESSAGE value="Changing Variables 32" />
     <MESSAGE value="Changing Variables 33 - ei tea kuidas sain tööle, aga sain" />
@@ -488,6 +494,7 @@
     <MESSAGE value="Method 46 average" />
     <MESSAGE value="Method 47 The length" />
     <MESSAGE value="Method 48 The firfst char ei töda ültsee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 48 The firfst char ei töda ültsee" />
+    <MESSAGE value="Method 48 Sain tööle first char" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 48 Sain tööle first char" />
   </component>
 </project>

@@ -9,13 +9,13 @@ public class Strings {
         System.out.print("Enter name: ");
         String text = reader.nextLine();
 
-        System.out.println("First char:" + calculateCharacters(text));
+        System.out.println("Last char:" + calculateCharacters(text));
 
     }
     public static char calculateCharacters(String text){
 
 
-        return text.charAt(0);
+        return text.charAt((text.length()-1));
 
 
     }
