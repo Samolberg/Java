@@ -8,13 +8,16 @@ public class Strings {
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter name: ");
         String text = reader.nextLine();
-        int i = 0;
+        int i = text.length()-1;
+        int j = 0;
 
-        while(i < text.length()) {
-
-            System.out.println(1+i + "." + " Character " + text.charAt(i));
-            i++;
-
+        System.out.println("Revered: ");
+        while (true) {
+            if (i < 0) {
+                break;
+            }
+            System.out.print(text.charAt(i));
+            i--;
         }
 
     }

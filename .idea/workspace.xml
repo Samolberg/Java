@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/print/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/Strings.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,14 +112,7 @@
       <workItem from="1571044176981" duration="6557000" />
       <workItem from="1571381182022" duration="6815000" />
       <workItem from="1573466612398" duration="69000" />
-      <workItem from="1573467049197" duration="2686000" />
-    </task>
-    <task id="LOCAL-00002" summary="Test commit">
-      <created>1569830974199</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1569830974199</updated>
+      <workItem from="1573467049197" duration="3390000" />
     </task>
     <task id="LOCAL-00003" summary="Calculations">
       <created>1569832753885</created>
@@ -456,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573471347838</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Method 51 Character separating">
+      <created>1573471853208</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1573471853208</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing Variables 33 - ei tea kuidas sain tööle, aga sain" />
     <MESSAGE value="Changing Variables 34 - factorial" />
     <MESSAGE value="Changing Variables 35 Sum of the powers" />
     <MESSAGE value="Changing Variables 36.1" />
@@ -501,6 +501,7 @@
     <MESSAGE value="Method 48 Sain tööle first char" />
     <MESSAGE value="Method 49 Last char" />
     <MESSAGE value="Method 50 Character print out" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 50 Character print out" />
+    <MESSAGE value="Method 51 Character separating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 51 Character separating" />
   </component>
 </project>
