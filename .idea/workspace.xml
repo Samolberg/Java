@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c4d9d4-04ae-4086-929a-f63a72354bea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/print/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/print/src/Strings.java" afterDir="false" />
     </list>
@@ -32,7 +31,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,14 +113,7 @@
       <workItem from="1571381182022" duration="6815000" />
       <workItem from="1573466612398" duration="69000" />
       <workItem from="1573467049197" duration="3390000" />
-      <workItem from="1574585419655" duration="3411000" />
-    </task>
-    <task id="LOCAL-00003" summary="Calculations">
-      <created>1569832753885</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1569832753885</updated>
+      <workItem from="1574585419655" duration="5486000" />
     </task>
     <task id="LOCAL-00004" summary="Calculations">
       <created>1569842993668</created>
@@ -459,7 +451,13 @@
       <option name="project" value="LOCAL" />
       <updated>1573471853208</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL−00052" summary="Method 53 Length of a string">
+      <created>1574590791115</created>
+      <option name="number" value="LOCAL−00052" />
+      <option name="presentableId" value="LOCAL−00052" />
+      <updated>1574590791116</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing Variables 34 - factorial" />
     <MESSAGE value="Changing Variables 35 Sum of the powers" />
     <MESSAGE value="Changing Variables 36.1" />
     <MESSAGE value="Changing Variables 36.2" />
@@ -504,6 +501,7 @@
     <MESSAGE value="Method 49 Last char" />
     <MESSAGE value="Method 50 Character print out" />
     <MESSAGE value="Method 51 Character separating" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 51 Character separating" />
+    <MESSAGE value="Method 53 Length of a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 53 Length of a string" />
   </component>
 </project>

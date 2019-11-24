@@ -11,7 +11,8 @@ public class Strings {
         System.out.print("Enter length: ");
         int num1 = Integer.parseInt(reader.nextLine());
 
-        System.out.println("Result: " + text.substring(0,num1));
+
+        System.out.println("Result: " + text.substring(text.length()-num1,text.length()));
 
 
 
