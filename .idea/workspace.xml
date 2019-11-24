@@ -113,14 +113,7 @@
       <workItem from="1571381182022" duration="6815000" />
       <workItem from="1573466612398" duration="69000" />
       <workItem from="1573467049197" duration="3390000" />
-      <workItem from="1574585419655" duration="6037000" />
-    </task>
-    <task id="LOCAL-00005" summary="Calculations">
-      <created>1569843500857</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1569843500857</updated>
+      <workItem from="1574585419655" duration="8247000" />
     </task>
     <task id="LOCAL-00006" summary="Calculations 8 9 10">
       <created>1569844938484</created>
@@ -456,7 +449,13 @@
       <option name="presentableId" value="LOCAL−00053" />
       <updated>1574604869451</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL−00054" summary="Method 55 A word inside a word">
+      <created>1574605525674</created>
+      <option name="number" value="LOCAL−00054" />
+      <option name="presentableId" value="LOCAL−00054" />
+      <updated>1574605525674</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing Variables 36.1" />
     <MESSAGE value="Changing Variables 36.2" />
     <MESSAGE value="Changing Variables 36.3" />
     <MESSAGE value="Changing Variables 36.4" />
@@ -501,6 +499,7 @@
     <MESSAGE value="Method 51 Character separating" />
     <MESSAGE value="Method 53 Length of a string" />
     <MESSAGE value="Method 54 End of a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method 54 End of a string" />
+    <MESSAGE value="Method 55 A word inside a word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method 55 A word inside a word" />
   </component>
 </project>
